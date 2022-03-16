@@ -23,6 +23,7 @@ startButton.addEventListener('click', async () => {
                 .pipeThrough(new TransformStream(new LineBreakTransformer()))
                 .getReader();
 
+            writer.write(new Uint8Array(['r'.charCodeAt(0)]));
             setInterval(() => {
                 writer.write(new Uint8Array(['r'.charCodeAt(0)]));
             }, READ_INTERVALL)
