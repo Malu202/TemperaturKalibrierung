@@ -1,4 +1,4 @@
-let READ_INTERVALL = 15000;
+let READ_INTERVALL = 13000;
 let PLOT_LENGTH = 100;
 let startButton = document.getElementById("start");
 let dataOutput = document.getElementById("dataOutput")
