@@ -3,6 +3,7 @@ let PLOT_LENGTH = 1;
 let startButton = document.getElementById("start");
 let dataOutput = document.getElementById("dataOutput")
 let data = [];
+let writer;
 
 navigator.serial.getPorts().then((ports) => {
     // Initialize the list of available ports with `ports` on page load.
@@ -16,7 +17,7 @@ startButton.addEventListener('click', async () => {
 
 
         while (port.readable) {
-            const writer = port.writable.getWriter();
+            writer = port.writable.getWriter();
             const textDecoder = new TextDecoderStream();
             const readableStreamClosed = port.readable.pipeTo(textDecoder.writable);
             const reader = textDecoder.readable
@@ -57,6 +58,17 @@ startButton.addEventListener('click', async () => {
 
 
 
+
+document.addEventListener("keyup", (e) => {
+    let keyCode = e.keyCode;
+    if (keyCode == 49) {
+        writer.write(new Uint8Array(['1'.charCodeAt(0)]));
+        console.log("resetting 1");
+    } else if (keyCode == 50) {
+        writer.write(new Uint8Array(['2'.charCodeAt(0)]));
+        console.log("resetting 2");
+    }
+}, false);
 
 
 
