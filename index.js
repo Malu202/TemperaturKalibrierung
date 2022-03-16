@@ -1,5 +1,5 @@
 let READ_INTERVALL = 13000 * 60;
-let PLOT_LENGTH = 100;
+let PLOT_LENGTH = 1;
 let startButton = document.getElementById("start");
 let dataOutput = document.getElementById("dataOutput")
 let data = [];
@@ -23,7 +23,7 @@ startButton.addEventListener('click', async () => {
                 .pipeThrough(new TransformStream(new LineBreakTransformer()))
                 .getReader();
 
-            writer.write(new Uint8Array(['r'.charCodeAt(0)]));
+            setTimeout(() => writer.write(new Uint8Array(['r'.charCodeAt(0)])), 3000);
             setInterval(() => {
                 writer.write(new Uint8Array(['r'.charCodeAt(0)]));
             }, READ_INTERVALL)
