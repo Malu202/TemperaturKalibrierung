@@ -69,6 +69,10 @@ document.addEventListener("keyup", (e) => {
         writer.write(new Uint8Array(['2'.charCodeAt(0)]));
         console.log("resetting 2");
     }
+    else if (keyCode == 55) {
+        writer.write(new Uint8Array(['7'.charCodeAt(0)]));
+        console.log("Preparing ESPs (resetting 7 times)");
+    }
 }, false);
 
 
