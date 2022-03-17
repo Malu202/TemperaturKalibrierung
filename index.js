@@ -25,7 +25,7 @@ startButton.addEventListener('click', async () => {
                 .pipeThrough(new TransformStream(new LineBreakTransformer()))
                 .getReader();
 
-            setTimeout(() => writer.write(new Uint8Array(['r'.charCodeAt(0)])), 3000);
+            //setTimeout(() => writer.write(new Uint8Array(['r'.charCodeAt(0)])), 3000);
             setInterval(() => {
                 writer.write(new Uint8Array(['r'.charCodeAt(0)]));
             }, READ_INTERVALL)
@@ -72,6 +72,10 @@ document.addEventListener("keyup", (e) => {
     else if (keyCode == 55) {
         writer.write(new Uint8Array(['7'.charCodeAt(0)]));
         console.log("Preparing ESPs (resetting 7 times)");
+    }
+    else if (keyCode == 77) {
+        writer.write(new Uint8Array(['r'.charCodeAt(0)]));
+        console.log("Taking forced measurement");
     }
 }, false);
 
