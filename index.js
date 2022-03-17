@@ -1,5 +1,6 @@
 let READ_INTERVALL = 13000 * 60;
-let PLOT_LENGTH = 1;
+let PLOT_LENGTH = 100;
+let SAVE_DATA_EVERY_N_MEASUREMENTS = 1;
 let startButton = document.getElementById("start");
 let dataOutput = document.getElementById("dataOutput")
 let data = [];
@@ -40,7 +41,7 @@ startButton.addEventListener('click', async () => {
                     data.push(timestamp + ',' + value + '\n');
                     dataOutput.innerText = data.slice(Math.max(0, data.length - 11)).join('');
                     updateChart(parseFloat(value), timestamp);
-                    if ((data.length % 10) == 0) {
+                    if ((data.length % SAVE_DATA_EVERY_N_MEASUREMENTS) == 0) {
                         saveFile("test", data)
                     }
                 }
