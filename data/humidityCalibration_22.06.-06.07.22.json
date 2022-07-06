@@ -1,0 +1,5433 @@
+{
+    "34": {
+        "name": "Draußen",
+        "measurements": [
+            {
+                "time": "2022-06-22T09:22:19.789Z",
+                "temperature": 23.9,
+                "humidity": 48,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T09:47:04.314Z",
+                "temperature": 24.13,
+                "humidity": 45,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T11:21:07.435Z",
+                "temperature": 26.45,
+                "humidity": 42,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T11:46:02.676Z",
+                "temperature": 26.94,
+                "humidity": 42,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T12:15:10.907Z",
+                "temperature": 27.1,
+                "humidity": 41,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T12:34:10.292Z",
+                "temperature": 27.6,
+                "humidity": 41,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T12:47:59.736Z",
+                "temperature": 27.43,
+                "humidity": 42,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T13:17:20.388Z",
+                "temperature": 26.94,
+                "humidity": 45,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T14:31:26.947Z",
+                "temperature": 26.56,
+                "humidity": 47,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T14:43:12.557Z",
+                "temperature": 26.34,
+                "humidity": 46,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T15:57:20.988Z",
+                "temperature": 25.5,
+                "humidity": 52,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T17:44:03.722Z",
+                "temperature": 24.19,
+                "humidity": 58,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T17:55:59.383Z",
+                "temperature": 24.08,
+                "humidity": 58,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T18:25:11.316Z",
+                "temperature": 23.31,
+                "humidity": 62,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T18:54:31.742Z",
+                "temperature": 22.34,
+                "humidity": 69,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T19:11:02.680Z",
+                "temperature": 22.05,
+                "humidity": 71,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T19:55:34.329Z",
+                "temperature": 21.09,
+                "humidity": 77,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T20:08:07.235Z",
+                "temperature": 20.86,
+                "humidity": 77,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T20:38:39.686Z",
+                "temperature": 20.01,
+                "humidity": 83,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T21:52:37.518Z",
+                "temperature": 19.16,
+                "humidity": 87,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T22:06:27.600Z",
+                "temperature": 19.04,
+                "humidity": 87,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T22:20:55.585Z",
+                "temperature": 19.04,
+                "humidity": 86,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T22:35:02.812Z",
+                "temperature": 18.98,
+                "humidity": 86,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T23:19:14.952Z",
+                "temperature": 18.72,
+                "humidity": 87,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T23:33:25.288Z",
+                "temperature": 18.82,
+                "humidity": 88,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-22T23:47:23.131Z",
+                "temperature": 18.88,
+                "humidity": 88,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T00:01:42.002Z",
+                "temperature": 18.71,
+                "humidity": 88,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T00:15:24.715Z",
+                "temperature": 18.78,
+                "humidity": 88,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T00:29:56.893Z",
+                "temperature": 18.61,
+                "humidity": 87,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T00:44:04.328Z",
+                "temperature": 18.72,
+                "humidity": 87,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T01:13:05.715Z",
+                "temperature": 18.74,
+                "humidity": 87,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T01:50:13.826Z",
+                "temperature": 18.45,
+                "humidity": 88,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T03:11:55.779Z",
+                "temperature": 18.13,
+                "humidity": 87,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T03:25:55.940Z",
+                "temperature": 18.25,
+                "humidity": 86,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T03:39:45.453Z",
+                "temperature": 18.41,
+                "humidity": 86,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T03:53:54.094Z",
+                "temperature": 18.47,
+                "humidity": 86,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T04:38:18.691Z",
+                "temperature": 19.43,
+                "humidity": 85,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T05:07:20.466Z",
+                "temperature": 19.89,
+                "humidity": 82,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T06:06:24.284Z",
+                "temperature": 21.19,
+                "humidity": 78,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T06:46:56.509Z",
+                "temperature": 22.66,
+                "humidity": 75,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T08:05:26.518Z",
+                "temperature": 24.39,
+                "humidity": 66,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T08:45:51.793Z",
+                "temperature": 25.58,
+                "humidity": 61,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T10:03:59.155Z",
+                "temperature": 26.95,
+                "humidity": 54,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T10:32:59.269Z",
+                "temperature": 27.38,
+                "humidity": 51,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T10:44:21.203Z",
+                "temperature": 27.76,
+                "humidity": 52,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T11:02:02.861Z",
+                "temperature": 27.45,
+                "humidity": 52,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T12:16:05.446Z",
+                "temperature": 28.45,
+                "humidity": 46,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T12:43:29.096Z",
+                "temperature": 28.93,
+                "humidity": 43,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T14:14:11.157Z",
+                "temperature": 29.64,
+                "humidity": 39,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T14:42:07.966Z",
+                "temperature": 29.76,
+                "humidity": 38,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T16:12:40.680Z",
+                "temperature": 29.19,
+                "humidity": 35,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T16:41:33.297Z",
+                "temperature": 28.68,
+                "humidity": 36,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T16:56:53.907Z",
+                "temperature": 28.36,
+                "humidity": 34,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T18:10:57.281Z",
+                "temperature": 26.62,
+                "humidity": 36,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T18:40:05.441Z",
+                "temperature": 24.79,
+                "humidity": 40,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T19:09:49.383Z",
+                "temperature": 24.04,
+                "humidity": 44,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T20:38:48.493Z",
+                "temperature": 21.07,
+                "humidity": 59,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T21:08:56.459Z",
+                "temperature": 20.73,
+                "humidity": 61,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T22:22:47.197Z",
+                "temperature": 19.49,
+                "humidity": 67,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T22:37:52.286Z",
+                "temperature": 19.54,
+                "humidity": 66,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T23:06:35.500Z",
+                "temperature": 18.83,
+                "humidity": 69,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-23T23:20:40.385Z",
+                "temperature": 18.6,
+                "humidity": 69,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T00:04:58.197Z",
+                "temperature": 18.19,
+                "humidity": 72,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T00:18:53.076Z",
+                "temperature": 17.96,
+                "humidity": 72,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T00:33:16.779Z",
+                "temperature": 17.91,
+                "humidity": 73,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T00:47:13.290Z",
+                "temperature": 17.85,
+                "humidity": 74,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T01:16:21.445Z",
+                "temperature": 17.58,
+                "humidity": 75,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T01:30:26.755Z",
+                "temperature": 17.63,
+                "humidity": 75,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T01:44:35.494Z",
+                "temperature": 17.33,
+                "humidity": 77,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T02:35:00.390Z",
+                "temperature": 17.23,
+                "humidity": 79,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T03:28:34.370Z",
+                "temperature": 17.14,
+                "humidity": 82,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T04:33:58.503Z",
+                "temperature": 18.24,
+                "humidity": 83,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T05:41:46.704Z",
+                "temperature": 20.5,
+                "humidity": 77,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T06:32:55.900Z",
+                "temperature": 22.63,
+                "humidity": 70,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T07:40:33.782Z",
+                "temperature": 24.23,
+                "humidity": 60,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T08:31:37.936Z",
+                "temperature": 25.45,
+                "humidity": 57,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T09:39:22.858Z",
+                "temperature": 26.37,
+                "humidity": 54,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T10:30:38.357Z",
+                "temperature": 27.28,
+                "humidity": 52,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T11:37:59.978Z",
+                "temperature": 27.78,
+                "humidity": 49,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T12:07:02.887Z",
+                "temperature": 28.11,
+                "humidity": 50,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T12:29:17.840Z",
+                "temperature": 28.03,
+                "humidity": 51,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T14:05:55.875Z",
+                "temperature": 28.55,
+                "humidity": 52,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T14:28:13.167Z",
+                "temperature": 28.54,
+                "humidity": 52,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T15:19:52.628Z",
+                "temperature": 27.92,
+                "humidity": 55,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T15:48:46.227Z",
+                "temperature": 27.89,
+                "humidity": 56,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T16:27:13.525Z",
+                "temperature": 28.01,
+                "humidity": 54,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T17:47:40.576Z",
+                "temperature": 27.19,
+                "humidity": 56,
+                "pressure": 1009,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T18:26:06.029Z",
+                "temperature": 26.46,
+                "humidity": 54,
+                "pressure": 1009,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T19:16:34.505Z",
+                "temperature": 25.49,
+                "humidity": 56,
+                "pressure": 1008,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T20:15:34.248Z",
+                "temperature": 24.23,
+                "humidity": 58,
+                "pressure": 1009,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T21:59:30.838Z",
+                "temperature": 23.54,
+                "humidity": 57,
+                "pressure": 1008,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T22:23:45.888Z",
+                "temperature": 23.63,
+                "humidity": 60,
+                "pressure": 1008,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T22:42:34.087Z",
+                "temperature": 22.34,
+                "humidity": 60,
+                "pressure": 1008,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T22:56:43.896Z",
+                "temperature": 22.33,
+                "humidity": 60,
+                "pressure": 1008,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T23:25:49.698Z",
+                "temperature": 21.44,
+                "humidity": 64,
+                "pressure": 1009,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T23:37:30.195Z",
+                "temperature": 22.25,
+                "humidity": 60,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-24T23:54:53.487Z",
+                "temperature": 18.99,
+                "humidity": 88,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T00:21:53.896Z",
+                "temperature": 18.97,
+                "humidity": 76,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T00:53:05.178Z",
+                "temperature": 19.13,
+                "humidity": 76,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T01:07:18.103Z",
+                "temperature": 18.81,
+                "humidity": 77,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T01:50:57.100Z",
+                "temperature": 18.58,
+                "humidity": 75,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T03:05:26.412Z",
+                "temperature": 17.89,
+                "humidity": 74,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T03:34:22.302Z",
+                "temperature": 17.69,
+                "humidity": 74,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T03:49:46.506Z",
+                "temperature": 17.37,
+                "humidity": 77,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T05:33:17.145Z",
+                "temperature": 16.4,
+                "humidity": 85,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T05:48:40.114Z",
+                "temperature": 16.38,
+                "humidity": 86,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T07:32:02.418Z",
+                "temperature": 17.48,
+                "humidity": 84,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T07:47:33.794Z",
+                "temperature": 17.87,
+                "humidity": 83,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T09:30:46.832Z",
+                "temperature": 18.86,
+                "humidity": 80,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T09:46:31.067Z",
+                "temperature": 19.06,
+                "humidity": 79,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T11:29:40.553Z",
+                "temperature": 20.24,
+                "humidity": 74,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T11:45:23.854Z",
+                "temperature": 20.73,
+                "humidity": 73,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T12:43:30.982Z",
+                "temperature": 21.55,
+                "humidity": 68,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T12:59:19.427Z",
+                "temperature": 22.12,
+                "humidity": 67,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T14:42:19.924Z",
+                "temperature": 23.09,
+                "humidity": 65,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T14:56:20.136Z",
+                "temperature": 23.18,
+                "humidity": 65,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T15:27:27.558Z",
+                "temperature": 23.28,
+                "humidity": 65,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T16:55:12.811Z",
+                "temperature": 23.06,
+                "humidity": 66,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T17:09:07.516Z",
+                "temperature": 22.84,
+                "humidity": 68,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T17:26:15.313Z",
+                "temperature": 22.9,
+                "humidity": 67,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T17:53:08.995Z",
+                "temperature": 22.2,
+                "humidity": 71,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T18:25:20.898Z",
+                "temperature": 21.64,
+                "humidity": 75,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T19:52:02.813Z",
+                "temperature": 20.58,
+                "humidity": 76,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T20:24:12.413Z",
+                "temperature": 20.31,
+                "humidity": 77,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T21:50:51.168Z",
+                "temperature": 20.07,
+                "humidity": 77,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T22:23:03.645Z",
+                "temperature": 19.55,
+                "humidity": 78,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-25T23:49:40.226Z",
+                "temperature": 18.34,
+                "humidity": 82,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T00:18:40.644Z",
+                "temperature": 18.36,
+                "humidity": 82,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T00:32:33.381Z",
+                "temperature": 17.91,
+                "humidity": 84,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T00:46:59.275Z",
+                "temperature": 18.17,
+                "humidity": 85,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T02:20:47.704Z",
+                "temperature": 17.53,
+                "humidity": 84,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T02:45:49.131Z",
+                "temperature": 17.39,
+                "humidity": 85,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T04:19:45.986Z",
+                "temperature": 17.97,
+                "humidity": 86,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T04:44:15.654Z",
+                "temperature": 18.85,
+                "humidity": 83,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T05:43:41.392Z",
+                "temperature": 20.76,
+                "humidity": 78,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T06:18:34.191Z",
+                "temperature": 21.89,
+                "humidity": 74,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T07:42:39.073Z",
+                "temperature": 24.7,
+                "humidity": 66,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T08:17:27.468Z",
+                "temperature": 25.57,
+                "humidity": 63,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T09:41:20.553Z",
+                "temperature": 27.34,
+                "humidity": 57,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T10:16:18.323Z",
+                "temperature": 28.01,
+                "humidity": 57,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T11:40:11.762Z",
+                "temperature": 29.04,
+                "humidity": 53,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T12:15:17.260Z",
+                "temperature": 29.4,
+                "humidity": 52,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T13:08:42.064Z",
+                "temperature": 29.9,
+                "humidity": 51,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T13:23:05.303Z",
+                "temperature": 30.37,
+                "humidity": 49,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T14:14:09.993Z",
+                "temperature": 30.52,
+                "humidity": 48,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T14:51:47.412Z",
+                "temperature": 30.9,
+                "humidity": 45,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T16:13:05.127Z",
+                "temperature": 30.63,
+                "humidity": 45,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T16:35:28.719Z",
+                "temperature": 30.29,
+                "humidity": 45,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T18:04:43.827Z",
+                "temperature": 28.07,
+                "humidity": 50,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T19:33:36.635Z",
+                "temperature": 25.02,
+                "humidity": 59,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T20:10:54.963Z",
+                "temperature": 24.09,
+                "humidity": 62,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T21:32:28.275Z",
+                "temperature": 22.42,
+                "humidity": 68,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T21:46:26.161Z",
+                "temperature": 22.25,
+                "humidity": 69,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T22:00:36.127Z",
+                "temperature": 22.12,
+                "humidity": 69,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-26T23:14:34.369Z",
+                "temperature": 21.34,
+                "humidity": 73,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T00:37:36.932Z",
+                "temperature": 20.71,
+                "humidity": 75,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T01:13:16.186Z",
+                "temperature": 20.42,
+                "humidity": 76,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T02:36:29.713Z",
+                "temperature": 20.03,
+                "humidity": 78,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T03:12:09.529Z",
+                "temperature": 19.8,
+                "humidity": 79,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T04:20:30.329Z",
+                "temperature": 20.36,
+                "humidity": 77,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T04:41:04.738Z",
+                "temperature": 21.26,
+                "humidity": 79,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T05:25:12.288Z",
+                "temperature": 22.3,
+                "humidity": 76,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T06:19:18.143Z",
+                "temperature": 24.54,
+                "humidity": 71,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T07:24:00.907Z",
+                "temperature": 26.97,
+                "humidity": 63,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T08:18:07.207Z",
+                "temperature": 28.34,
+                "humidity": 59,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T09:22:51.619Z",
+                "temperature": 30.22,
+                "humidity": 53,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T10:17:03.424Z",
+                "temperature": 31.19,
+                "humidity": 48,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T11:21:37.604Z",
+                "temperature": 32.3,
+                "humidity": 46,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T12:15:52.163Z",
+                "temperature": 32.99,
+                "humidity": 44,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T12:35:06.730Z",
+                "temperature": 33.12,
+                "humidity": 44,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T14:14:48.218Z",
+                "temperature": 33.66,
+                "humidity": 43,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T16:13:43.907Z",
+                "temperature": 33.13,
+                "humidity": 46,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T18:12:35.904Z",
+                "temperature": 30.8,
+                "humidity": 49,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T20:11:13.500Z",
+                "temperature": 27.97,
+                "humidity": 57,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T22:10:30.911Z",
+                "temperature": 25.49,
+                "humidity": 61,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-27T23:57:54.812Z",
+                "temperature": 25.45,
+                "humidity": 57,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T00:08:52.843Z",
+                "temperature": 25.98,
+                "humidity": 57,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T00:41:26.584Z",
+                "temperature": 22.87,
+                "humidity": 75,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T01:10:15.031Z",
+                "temperature": 22.4,
+                "humidity": 77,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T02:08:14.023Z",
+                "temperature": 21.74,
+                "humidity": 78,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T02:24:26.496Z",
+                "temperature": 21.57,
+                "humidity": 78,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T02:38:37.945Z",
+                "temperature": 21.43,
+                "humidity": 79,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T03:22:48.099Z",
+                "temperature": 20.99,
+                "humidity": 82,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T04:06:52.379Z",
+                "temperature": 20.79,
+                "humidity": 84,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T04:06:52.537Z",
+                "temperature": 20.79,
+                "humidity": 84,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T05:20:50.715Z",
+                "temperature": 21.07,
+                "humidity": 81,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T05:34:54.074Z",
+                "temperature": 21.36,
+                "humidity": 79,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T06:05:52.671Z",
+                "temperature": 22.11,
+                "humidity": 76,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T06:18:55.105Z",
+                "temperature": 22.5,
+                "humidity": 75,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T08:04:50.699Z",
+                "temperature": 25.12,
+                "humidity": 65,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T08:28:24.777Z",
+                "temperature": 25.62,
+                "humidity": 63,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T10:03:38.702Z",
+                "temperature": 27.39,
+                "humidity": 59,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T10:27:13.700Z",
+                "temperature": 27.54,
+                "humidity": 59,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T12:02:31.842Z",
+                "temperature": 29.27,
+                "humidity": 54,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T12:26:09.726Z",
+                "temperature": 29.42,
+                "humidity": 54,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T13:40:03.053Z",
+                "temperature": 30.19,
+                "humidity": 52,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T14:01:29.208Z",
+                "temperature": 30.26,
+                "humidity": 51,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T14:24:01.069Z",
+                "temperature": 30.62,
+                "humidity": 50,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T15:08:11.569Z",
+                "temperature": 29.89,
+                "humidity": 50,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T15:21:59.233Z",
+                "temperature": 30.16,
+                "humidity": 52,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T15:36:26.861Z",
+                "temperature": 30.11,
+                "humidity": 53,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T16:00:10.280Z",
+                "temperature": 29.74,
+                "humidity": 50,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T17:35:22.748Z",
+                "temperature": 28.53,
+                "humidity": 54,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T17:59:01.053Z",
+                "temperature": 28.21,
+                "humidity": 55,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T19:57:59.093Z",
+                "temperature": 25.75,
+                "humidity": 62,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T21:17:15.789Z",
+                "temperature": 25,
+                "humidity": 67,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T21:31:12.048Z",
+                "temperature": 24.53,
+                "humidity": 69,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T21:45:20.263Z",
+                "temperature": 24.48,
+                "humidity": 64,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T21:56:43.547Z",
+                "temperature": 24.22,
+                "humidity": 64,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T22:41:04.665Z",
+                "temperature": 23.44,
+                "humidity": 70,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-28T23:55:03.286Z",
+                "temperature": 23.14,
+                "humidity": 73,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T00:26:36.193Z",
+                "temperature": 22.75,
+                "humidity": 75,
+                "pressure": 1017,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T01:25:47.182Z",
+                "temperature": 21.95,
+                "humidity": 79,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T01:53:49.972Z",
+                "temperature": 21.49,
+                "humidity": 78,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T02:24:48.494Z",
+                "temperature": 21.18,
+                "humidity": 80,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T02:53:43.295Z",
+                "temperature": 21.13,
+                "humidity": 80,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T03:52:50.702Z",
+                "temperature": 21.49,
+                "humidity": 80,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T04:07:42.207Z",
+                "temperature": 21.61,
+                "humidity": 80,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T04:21:36.512Z",
+                "temperature": 21.94,
+                "humidity": 80,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T05:06:03.671Z",
+                "temperature": 22.95,
+                "humidity": 76,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T05:20:05.460Z",
+                "temperature": 23.14,
+                "humidity": 75,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T05:51:31.811Z",
+                "temperature": 24.04,
+                "humidity": 73,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T07:03:58.869Z",
+                "temperature": 25.37,
+                "humidity": 70,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T07:35:28.751Z",
+                "temperature": 26.63,
+                "humidity": 67,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T08:02:58.553Z",
+                "temperature": 27.7,
+                "humidity": 63,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T08:16:50.010Z",
+                "temperature": 28.09,
+                "humidity": 63,
+                "pressure": 1016,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T09:04:54.645Z",
+                "temperature": 29.42,
+                "humidity": 57,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T10:01:06.274Z",
+                "temperature": 30.65,
+                "humidity": 53,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T11:03:33.578Z",
+                "temperature": 31.81,
+                "humidity": 53,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T11:59:52.519Z",
+                "temperature": 32.85,
+                "humidity": 50,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T13:02:22.266Z",
+                "temperature": 33.89,
+                "humidity": 45,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T13:28:43.386Z",
+                "temperature": 33.68,
+                "humidity": 43,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T15:01:30.513Z",
+                "temperature": 33.19,
+                "humidity": 44,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T15:12:17.571Z",
+                "temperature": 33.27,
+                "humidity": 44,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T16:59:51.804Z",
+                "temperature": 31.63,
+                "humidity": 51,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T17:11:21.555Z",
+                "temperature": 31.49,
+                "humidity": 51,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T18:58:48.169Z",
+                "temperature": 25.62,
+                "humidity": 69,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T19:09:52.547Z",
+                "temperature": 25.12,
+                "humidity": 68,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T19:28:10.821Z",
+                "temperature": 24.97,
+                "humidity": 66,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T19:54:09.932Z",
+                "temperature": 24.09,
+                "humidity": 64,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T20:12:14.204Z",
+                "temperature": 23.61,
+                "humidity": 63,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T20:38:14.018Z",
+                "temperature": 23.18,
+                "humidity": 63,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T21:11:20.937Z",
+                "temperature": 22.53,
+                "humidity": 69,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T21:22:00.547Z",
+                "temperature": 22.3,
+                "humidity": 70,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T21:40:30.602Z",
+                "temperature": 21.53,
+                "humidity": 74,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T22:39:37.699Z",
+                "temperature": 21.01,
+                "humidity": 76,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T22:50:54.198Z",
+                "temperature": 20.72,
+                "humidity": 78,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T23:05:22.103Z",
+                "temperature": 20.47,
+                "humidity": 79,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T23:19:15.879Z",
+                "temperature": 20.43,
+                "humidity": 80,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T23:33:42.655Z",
+                "temperature": 20.14,
+                "humidity": 79,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-29T23:47:51.415Z",
+                "temperature": 19.99,
+                "humidity": 80,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T00:01:57.837Z",
+                "temperature": 20,
+                "humidity": 80,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T00:46:08.631Z",
+                "temperature": 19.61,
+                "humidity": 82,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T01:00:12.973Z",
+                "temperature": 19.63,
+                "humidity": 82,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T01:14:22.818Z",
+                "temperature": 19.67,
+                "humidity": 83,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T01:28:32.770Z",
+                "temperature": 19.62,
+                "humidity": 83,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T02:07:32.048Z",
+                "temperature": 19.48,
+                "humidity": 84,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T03:06:27.775Z",
+                "temperature": 19.36,
+                "humidity": 85,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T03:26:37.329Z",
+                "temperature": 19.51,
+                "humidity": 85,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T03:40:47.120Z",
+                "temperature": 19.57,
+                "humidity": 85,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T03:54:38.969Z",
+                "temperature": 19.48,
+                "humidity": 86,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T04:34:57.045Z",
+                "temperature": 20.32,
+                "humidity": 84,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T05:08:09.959Z",
+                "temperature": 21.32,
+                "humidity": 80,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T06:03:48.010Z",
+                "temperature": 22.34,
+                "humidity": 78,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T07:07:01.635Z",
+                "temperature": 23.48,
+                "humidity": 73,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T07:21:06.990Z",
+                "temperature": 23.82,
+                "humidity": 73,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T07:32:40.311Z",
+                "temperature": 24.5,
+                "humidity": 68,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T09:05:02.192Z",
+                "temperature": 27.41,
+                "humidity": 62,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T09:16:21.839Z",
+                "temperature": 27.55,
+                "humidity": 61,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T10:33:51.379Z",
+                "temperature": 29.44,
+                "humidity": 58,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T10:45:34.969Z",
+                "temperature": 29.79,
+                "humidity": 57,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T11:47:01.537Z",
+                "temperature": 30.89,
+                "humidity": 57,
+                "pressure": 1014,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T12:44:21.013Z",
+                "temperature": 31.76,
+                "humidity": 54,
+                "pressure": 1015,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T13:45:56.249Z",
+                "temperature": 33.04,
+                "humidity": 50,
+                "pressure": 1013,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T14:43:30.201Z",
+                "temperature": 33.37,
+                "humidity": 48,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T15:44:34.793Z",
+                "temperature": 33.58,
+                "humidity": 45,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T16:44:35.376Z",
+                "temperature": 33.12,
+                "humidity": 47,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T17:43:22.576Z",
+                "temperature": 31.34,
+                "humidity": 54,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T18:41:27.677Z",
+                "temperature": 29.13,
+                "humidity": 59,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T19:42:15.503Z",
+                "temperature": 27.35,
+                "humidity": 65,
+                "pressure": 1011,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T20:40:14.120Z",
+                "temperature": 26.1,
+                "humidity": 68,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T21:41:13.152Z",
+                "temperature": 24.98,
+                "humidity": 73,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T22:39:15.839Z",
+                "temperature": 24.33,
+                "humidity": 74,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-06-30T23:40:03.941Z",
+                "temperature": 23.81,
+                "humidity": 76,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-01T00:08:42.830Z",
+                "temperature": 23.44,
+                "humidity": 77,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-01T00:22:53.824Z",
+                "temperature": 23.37,
+                "humidity": 77,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-01T00:37:03.571Z",
+                "temperature": 23.21,
+                "humidity": 78,
+                "pressure": 1012,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-01T02:06:32.511Z",
+                "temperature": 22.75,
+                "humidity": 77,
+                "pressure": 1010,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T20:37:56.781Z",
+                "temperature": 18.37,
+                "humidity": 75,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T20:51:37.882Z",
+                "temperature": 18.34,
+                "humidity": 75,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T21:07:17.067Z",
+                "temperature": 18.3,
+                "humidity": 74,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T21:21:07.265Z",
+                "temperature": 18.19,
+                "humidity": 75,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T21:36:07.863Z",
+                "temperature": 17.63,
+                "humidity": 76,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T21:49:51.648Z",
+                "temperature": 17.65,
+                "humidity": 76,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T22:49:28.909Z",
+                "temperature": 17.44,
+                "humidity": 78,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T23:03:30.412Z",
+                "temperature": 17.47,
+                "humidity": 78,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T23:18:07.306Z",
+                "temperature": 17.34,
+                "humidity": 79,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T23:35:17.441Z",
+                "temperature": 16.86,
+                "humidity": 80,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-05T23:46:18.425Z",
+                "temperature": 16.87,
+                "humidity": 80,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T01:34:19.729Z",
+                "temperature": 17.31,
+                "humidity": 84,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T01:45:04.995Z",
+                "temperature": 17.23,
+                "humidity": 84,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T02:14:28.578Z",
+                "temperature": 17.1,
+                "humidity": 84,
+                "pressure": 1018,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T03:13:32.271Z",
+                "temperature": 16.85,
+                "humidity": 83,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T04:12:50.940Z",
+                "temperature": 16.95,
+                "humidity": 84,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T04:56:44.692Z",
+                "temperature": 18.28,
+                "humidity": 82,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T05:16:59.125Z",
+                "temperature": 18.74,
+                "humidity": 78,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T05:55:21.982Z",
+                "temperature": 19.99,
+                "humidity": 76,
+                "pressure": 1019,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T06:39:47.836Z",
+                "temperature": 21.43,
+                "humidity": 69,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T06:53:39.109Z",
+                "temperature": 21.52,
+                "humidity": 69,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T07:07:50.694Z",
+                "temperature": 21.74,
+                "humidity": 68,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T09:06:45.904Z",
+                "temperature": 24.76,
+                "humidity": 57,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T11:05:31.901Z",
+                "temperature": 25.82,
+                "humidity": 49,
+                "pressure": 1021,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T13:04:22.060Z",
+                "temperature": 25.51,
+                "humidity": 52,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T15:03:10.622Z",
+                "temperature": 23.13,
+                "humidity": 61,
+                "pressure": 1022,
+                "voltage": null,
+                "room_id": 34
+            },
+            {
+                "time": "2022-07-06T17:01:57.976Z",
+                "temperature": 24,
+                "humidity": 58,
+                "pressure": 1020,
+                "voltage": null,
+                "room_id": 34
+            }
+        ]
+    },
+    "53": {
+        "name": "Drinnen 1",
+        "measurements": [
+            {
+                "time": "2022-06-22T09:47:02.890Z",
+                "temperature": 26.38,
+                "humidity": 37.23,
+                "pressure": 1015.0556883398265,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T11:46:01.221Z",
+                "temperature": 26.48,
+                "humidity": 38.32,
+                "pressure": 1014.1643600796101,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T12:15:09.306Z",
+                "temperature": 26.14,
+                "humidity": 33.7,
+                "pressure": 1014.031022898102,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T12:44:01.137Z",
+                "temperature": 26.53,
+                "humidity": 34.2,
+                "pressure": 1013.8172901736173,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T14:43:11.570Z",
+                "temperature": 26.4,
+                "humidity": 36.84,
+                "pressure": 1012.7762540543862,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T15:57:19.348Z",
+                "temperature": 26.14,
+                "humidity": 41.77,
+                "pressure": 1012.2141390518946,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T17:55:58.392Z",
+                "temperature": 25.54,
+                "humidity": 46.42,
+                "pressure": 1012.4432302653308,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T18:25:09.974Z",
+                "temperature": 26.31,
+                "humidity": 53.61,
+                "pressure": 1012.6941637318748,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T18:54:30.607Z",
+                "temperature": 26.12,
+                "humidity": 58.84,
+                "pressure": 1013.2571486551202,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T20:08:06.274Z",
+                "temperature": 26.11,
+                "humidity": 63.07,
+                "pressure": 1013.2983561492383,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-22T22:06:55.765Z",
+                "temperature": 26.07,
+                "humidity": 65.21,
+                "pressure": 1013.8380577263765,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T00:05:47.772Z",
+                "temperature": 25.9,
+                "humidity": 65.64,
+                "pressure": 1013.8864336672268,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T01:50:12.394Z",
+                "temperature": 25.58,
+                "humidity": 66.38,
+                "pressure": 1014.8124451644428,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T03:48:33.176Z",
+                "temperature": 25.6,
+                "humidity": 67.13,
+                "pressure": 1015.6058351359704,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T04:47:41.206Z",
+                "temperature": 25.92,
+                "humidity": 66.96,
+                "pressure": 1016.1775731110732,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T06:46:55.209Z",
+                "temperature": 26.24,
+                "humidity": 67,
+                "pressure": 1016.9393686417807,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T08:45:50.497Z",
+                "temperature": 26.4,
+                "humidity": 67.04,
+                "pressure": 1017.0939559877783,
+                "voltage": 1022,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T10:44:19.661Z",
+                "temperature": 26.47,
+                "humidity": 67.19,
+                "pressure": 1016.8713301792799,
+                "voltage": 1021,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T12:43:27.976Z",
+                "temperature": 26.85,
+                "humidity": 66.98,
+                "pressure": 1016.1137043473533,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T14:42:06.792Z",
+                "temperature": 27.01,
+                "humidity": 66.96,
+                "pressure": 1015.3622975297261,
+                "voltage": 1021,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T16:41:31.948Z",
+                "temperature": 27.13,
+                "humidity": 66.92,
+                "pressure": 1014.7755179285988,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T18:40:04.184Z",
+                "temperature": 26.91,
+                "humidity": 66.5,
+                "pressure": 1014.6702915227255,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T20:38:47.215Z",
+                "temperature": 26.8,
+                "humidity": 67.17,
+                "pressure": 1014.9611551097063,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-23T22:37:51.363Z",
+                "temperature": 26.54,
+                "humidity": 67.37,
+                "pressure": 1015.2548021148618,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T00:06:32.639Z",
+                "temperature": 26.17,
+                "humidity": 67.61,
+                "pressure": 1015.0302689632225,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T00:50:40.470Z",
+                "temperature": 25.85,
+                "humidity": 67.85,
+                "pressure": 1014.8908166325123,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T02:34:59.207Z",
+                "temperature": 26.19,
+                "humidity": 67.97,
+                "pressure": 1014.2613949471806,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T04:33:57.185Z",
+                "temperature": 26.44,
+                "humidity": 68.01,
+                "pressure": 1014.5550381866225,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T06:32:54.604Z",
+                "temperature": 26.68,
+                "humidity": 68.01,
+                "pressure": 1014.3234883502369,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T08:31:36.608Z",
+                "temperature": 26.79,
+                "humidity": 68.13,
+                "pressure": 1014.1456993967759,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T10:30:37.175Z",
+                "temperature": 26.9,
+                "humidity": 68.22,
+                "pressure": 1013.4383531162417,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T12:29:16.707Z",
+                "temperature": 27.08,
+                "humidity": 68.12,
+                "pressure": 1012.385470999861,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T14:28:11.871Z",
+                "temperature": 27.27,
+                "humidity": 67.81,
+                "pressure": 1010.992008300199,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T16:27:12.095Z",
+                "temperature": 27.36,
+                "humidity": 67.76,
+                "pressure": 1010.2243537757471,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T18:26:04.017Z",
+                "temperature": 27.31,
+                "humidity": 68.35,
+                "pressure": 1009.468287107071,
+                "voltage": 1022,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T20:24:35.088Z",
+                "temperature": 27.02,
+                "humidity": 67.95,
+                "pressure": 1010.3042967949866,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T22:23:44.561Z",
+                "temperature": 26.85,
+                "humidity": 68.07,
+                "pressure": 1009.824825441894,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-24T23:37:29.371Z",
+                "temperature": 26.43,
+                "humidity": 68.05,
+                "pressure": 1011.7203335852987,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T00:21:52.794Z",
+                "temperature": 26.04,
+                "humidity": 68.28,
+                "pressure": 1012.6819354959641,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T01:50:56.012Z",
+                "temperature": 26.38,
+                "humidity": 68.12,
+                "pressure": 1013.6986098974796,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T03:49:45.224Z",
+                "temperature": 26.61,
+                "humidity": 68.51,
+                "pressure": 1014.1952188656878,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T05:48:38.685Z",
+                "temperature": 26.77,
+                "humidity": 68.22,
+                "pressure": 1015.0280230992113,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T07:47:32.379Z",
+                "temperature": 26.88,
+                "humidity": 68.64,
+                "pressure": 1015.8689528054272,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T09:46:28.652Z",
+                "temperature": 26.96,
+                "humidity": 68.55,
+                "pressure": 1016.4817026155785,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T11:45:22.371Z",
+                "temperature": 27.17,
+                "humidity": 68.3,
+                "pressure": 1016.1757053657336,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T12:59:18.275Z",
+                "temperature": 26.68,
+                "humidity": 68.54,
+                "pressure": 1016.1903134715043,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T14:57:56.389Z",
+                "temperature": 26.33,
+                "humidity": 68.47,
+                "pressure": 1015.75783383667,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T15:27:26.382Z",
+                "temperature": 25.96,
+                "humidity": 68.87,
+                "pressure": 1015.6178527806002,
+                "voltage": 1022,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T17:26:14.085Z",
+                "temperature": 26.25,
+                "humidity": 68.83,
+                "pressure": 1015.6058772334142,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T18:25:19.347Z",
+                "temperature": 26.59,
+                "humidity": 68.2,
+                "pressure": 1015.7115364649424,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T20:24:11.112Z",
+                "temperature": 26.68,
+                "humidity": 68.81,
+                "pressure": 1016.0285532584489,
+                "voltage": 1022,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-25T22:23:01.342Z",
+                "temperature": 26.63,
+                "humidity": 68.86,
+                "pressure": 1016.1210929154084,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T00:21:36.222Z",
+                "temperature": 26.45,
+                "humidity": 68.59,
+                "pressure": 1016.0971679697423,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T02:20:46.297Z",
+                "temperature": 26.56,
+                "humidity": 68.29,
+                "pressure": 1016.3886130589686,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T04:19:44.390Z",
+                "temperature": 26.67,
+                "humidity": 68.83,
+                "pressure": 1017.0029676018585,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T06:18:32.975Z",
+                "temperature": 26.9,
+                "humidity": 68.36,
+                "pressure": 1017.5490424177757,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T08:17:26.285Z",
+                "temperature": 27,
+                "humidity": 68.62,
+                "pressure": 1017.9502751085059,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T10:16:16.885Z",
+                "temperature": 27.05,
+                "humidity": 68.9,
+                "pressure": 1017.7648704989077,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T12:15:15.324Z",
+                "temperature": 27.13,
+                "humidity": 68.79,
+                "pressure": 1017.2947161995625,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T14:14:08.682Z",
+                "temperature": 27.31,
+                "humidity": 68.42,
+                "pressure": 1016.8935299231456,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T16:13:03.974Z",
+                "temperature": 27.45,
+                "humidity": 68.6,
+                "pressure": 1016.3576458007045,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T18:11:33.500Z",
+                "temperature": 27.51,
+                "humidity": 68.25,
+                "pressure": 1016.3167962616698,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T20:10:53.125Z",
+                "temperature": 27.29,
+                "humidity": 68.38,
+                "pressure": 1017.2590267147507,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T22:09:15.801Z",
+                "temperature": 27.14,
+                "humidity": 68.71,
+                "pressure": 1017.4232288426077,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-26T23:23:15.088Z",
+                "temperature": 26.83,
+                "humidity": 68.56,
+                "pressure": 1017.0928776165198,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T00:37:35.595Z",
+                "temperature": 26.49,
+                "humidity": 68.82,
+                "pressure": 1016.9226120132162,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T02:36:27.984Z",
+                "temperature": 26.47,
+                "humidity": 68.58,
+                "pressure": 1016.9198079051914,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T04:20:28.772Z",
+                "temperature": 26.78,
+                "humidity": 68.69,
+                "pressure": 1016.8256683407835,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T06:19:16.789Z",
+                "temperature": 27.08,
+                "humidity": 68.84,
+                "pressure": 1017.0755737410321,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T08:18:06.080Z",
+                "temperature": 27.22,
+                "humidity": 69.04,
+                "pressure": 1016.9163433581224,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T10:17:02.010Z",
+                "temperature": 27.34,
+                "humidity": 68.48,
+                "pressure": 1016.5437787677328,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T12:15:50.796Z",
+                "temperature": 27.51,
+                "humidity": 68.74,
+                "pressure": 1015.8272566952534,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T14:14:47.029Z",
+                "temperature": 27.77,
+                "humidity": 68.59,
+                "pressure": 1015.2295234320204,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T16:13:42.784Z",
+                "temperature": 27.9,
+                "humidity": 69.03,
+                "pressure": 1014.835107589768,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T18:12:34.593Z",
+                "temperature": 27.79,
+                "humidity": 69,
+                "pressure": 1014.9568083016072,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T20:11:12.132Z",
+                "temperature": 27.76,
+                "humidity": 69.21,
+                "pressure": 1016.0721147209672,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-27T22:10:29.575Z",
+                "temperature": 27.84,
+                "humidity": 68.96,
+                "pressure": 1016.5479091363528,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T00:08:51.819Z",
+                "temperature": 27.73,
+                "humidity": 69.16,
+                "pressure": 1018.1422028488867,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T02:08:12.472Z",
+                "temperature": 27.71,
+                "humidity": 68.87,
+                "pressure": 1020.2077350898946,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T04:06:50.983Z",
+                "temperature": 27.52,
+                "humidity": 69.28,
+                "pressure": 1019.978011704636,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T06:05:51.270Z",
+                "temperature": 27.54,
+                "humidity": 69.19,
+                "pressure": 1021.688338084801,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T08:04:49.406Z",
+                "temperature": 27.65,
+                "humidity": 68.74,
+                "pressure": 1021.8227191820743,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T10:03:37.313Z",
+                "temperature": 27.75,
+                "humidity": 68.73,
+                "pressure": 1021.6581740071098,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T12:02:29.971Z",
+                "temperature": 27.82,
+                "humidity": 69.07,
+                "pressure": 1020.5203117187094,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T14:01:27.614Z",
+                "temperature": 28.01,
+                "humidity": 68.9,
+                "pressure": 1019.24811032601,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T16:00:08.000Z",
+                "temperature": 28.24,
+                "humidity": 69.16,
+                "pressure": 1017.5467749630097,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T17:58:59.786Z",
+                "temperature": 28.19,
+                "humidity": 69.07,
+                "pressure": 1018.4777911424834,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T19:57:57.597Z",
+                "temperature": 28.08,
+                "humidity": 68.68,
+                "pressure": 1018.2509086036534,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T21:56:42.382Z",
+                "temperature": 27.66,
+                "humidity": 69.28,
+                "pressure": 1018.4668259374356,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T22:41:03.193Z",
+                "temperature": 27.3,
+                "humidity": 69.26,
+                "pressure": 1018.2010002872521,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-28T23:55:01.206Z",
+                "temperature": 26.96,
+                "humidity": 69.32,
+                "pressure": 1017.5853251890895,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T01:53:48.617Z",
+                "temperature": 26.8,
+                "humidity": 69.15,
+                "pressure": 1016.7434626140354,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T03:52:48.586Z",
+                "temperature": 26.61,
+                "humidity": 69.08,
+                "pressure": 1016.6475561556298,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T05:51:30.475Z",
+                "temperature": 26.56,
+                "humidity": 69.07,
+                "pressure": 1016.8976771016193,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T07:35:27.487Z",
+                "temperature": 26.87,
+                "humidity": 68.83,
+                "pressure": 1016.285721117005,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T09:04:53.393Z",
+                "temperature": 27.22,
+                "humidity": 69.33,
+                "pressure": 1015.9538797385901,
+                "voltage": 1023,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T11:03:31.171Z",
+                "temperature": 27.49,
+                "humidity": 69.09,
+                "pressure": 1014.7566790095661,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T13:02:20.830Z",
+                "temperature": 27.69,
+                "humidity": 69.31,
+                "pressure": 1012.8759009828152,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T15:01:27.428Z",
+                "temperature": 27.9,
+                "humidity": 69.44,
+                "pressure": 1011.8315137197784,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T16:59:50.500Z",
+                "temperature": 28.02,
+                "humidity": 69.38,
+                "pressure": 1010.9513566503987,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T18:58:46.981Z",
+                "temperature": 28.08,
+                "humidity": 69.48,
+                "pressure": 1012.2338949273762,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T19:28:09.286Z",
+                "temperature": 27.77,
+                "humidity": 69.47,
+                "pressure": 1012.4894969127981,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T20:12:12.757Z",
+                "temperature": 27.42,
+                "humidity": 69.4,
+                "pressure": 1013.4594915618279,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T21:11:19.804Z",
+                "temperature": 27,
+                "humidity": 69.38,
+                "pressure": 1014.8656716284354,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T21:40:29.411Z",
+                "temperature": 26.47,
+                "humidity": 69.01,
+                "pressure": 1014.5163332836834,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-29T22:39:36.336Z",
+                "temperature": 26.16,
+                "humidity": 69.03,
+                "pressure": 1015.0711711140082,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T00:08:12.364Z",
+                "temperature": 25.72,
+                "humidity": 69.3,
+                "pressure": 1014.8957296532927,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T02:07:30.594Z",
+                "temperature": 25.47,
+                "humidity": 69.35,
+                "pressure": 1015.6104632750701,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T03:06:26.277Z",
+                "temperature": 25.15,
+                "humidity": 69.76,
+                "pressure": 1015.3576204438551,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T03:50:16.470Z",
+                "temperature": 25.47,
+                "humidity": 69.29,
+                "pressure": 1015.4773700971951,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T04:34:55.592Z",
+                "temperature": 25.81,
+                "humidity": 69.47,
+                "pressure": 1014.8858268738468,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T06:03:46.542Z",
+                "temperature": 26.15,
+                "humidity": 69.18,
+                "pressure": 1015.2615921292999,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T07:32:39.114Z",
+                "temperature": 26.46,
+                "humidity": 69.24,
+                "pressure": 1015.1593776806993,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T09:16:20.777Z",
+                "temperature": 26.77,
+                "humidity": 69.07,
+                "pressure": 1014.5268246373291,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T10:45:34.007Z",
+                "temperature": 27.15,
+                "humidity": 69.46,
+                "pressure": 1014.1068176417174,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T12:44:19.825Z",
+                "temperature": 27.46,
+                "humidity": 69.21,
+                "pressure": 1013.1449904678274,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T14:43:29.009Z",
+                "temperature": 27.62,
+                "humidity": 69.6,
+                "pressure": 1012.0804978555585,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T16:44:29.675Z",
+                "temperature": 27.73,
+                "humidity": 69.24,
+                "pressure": 1011.1812921598013,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T18:41:25.876Z",
+                "temperature": 27.81,
+                "humidity": 69.5,
+                "pressure": 1011.1753388411506,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T20:40:11.007Z",
+                "temperature": 27.82,
+                "humidity": 69.29,
+                "pressure": 1012.1050399565917,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-06-30T22:39:14.301Z",
+                "temperature": 27.74,
+                "humidity": 69.56,
+                "pressure": 1012.4431694012696,
+                "voltage": 1023,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-01T00:37:43.074Z",
+                "temperature": 27.49,
+                "humidity": 69.57,
+                "pressure": 1012.5195097698772,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-05T20:37:55.592Z",
+                "temperature": 27.41,
+                "humidity": 68.92,
+                "pressure": 1019.8074958541376,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-05T21:07:15.564Z",
+                "temperature": 27.1,
+                "humidity": 69.33,
+                "pressure": 1019.8887465430192,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-05T21:36:06.606Z",
+                "temperature": 26.77,
+                "humidity": 69.33,
+                "pressure": 1019.9869384449364,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-05T23:35:16.023Z",
+                "temperature": 26.68,
+                "humidity": 68.9,
+                "pressure": 1020.2716716294206,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T01:34:18.442Z",
+                "temperature": 26.96,
+                "humidity": 68.95,
+                "pressure": 1020.2088526069966,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T03:17:53.008Z",
+                "temperature": 27.3,
+                "humidity": 68.83,
+                "pressure": 1020.6156677352789,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T05:16:57.709Z",
+                "temperature": 27.41,
+                "humidity": 68.96,
+                "pressure": 1020.7500470154679,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T07:15:35.335Z",
+                "temperature": 27.26,
+                "humidity": 69.21,
+                "pressure": 1021.1481802954087,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T09:14:30.149Z",
+                "temperature": 27.45,
+                "humidity": 68.85,
+                "pressure": 1021.1802984725722,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T11:13:20.554Z",
+                "temperature": 27.39,
+                "humidity": 68.72,
+                "pressure": 1021.7668416161847,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T13:12:13.478Z",
+                "temperature": 27.63,
+                "humidity": 69.1,
+                "pressure": 1020.9417679924837,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T15:11:04.467Z",
+                "temperature": 27.52,
+                "humidity": 68.68,
+                "pressure": 1021.2889604291804,
+                "voltage": 1024,
+                "room_id": 53
+            },
+            {
+                "time": "2022-07-06T17:09:58.096Z",
+                "temperature": 27.52,
+                "humidity": 68.87,
+                "pressure": 1020.6090958485394,
+                "voltage": 1024,
+                "room_id": 53
+            }
+        ]
+    },
+    "56": {
+        "name": "Drinnen 2",
+        "measurements": [
+            {
+                "time": "2022-06-22T11:21:06.288Z",
+                "temperature": 26.58,
+                "humidity": 37.09,
+                "pressure": 1013.220182614656,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T12:19:45.342Z",
+                "temperature": 26.25,
+                "humidity": 34.54,
+                "pressure": 1012.7893303014579,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T12:34:08.887Z",
+                "temperature": 26.66,
+                "humidity": 34.14,
+                "pressure": 1012.729507481185,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T12:47:58.861Z",
+                "temperature": 26.35,
+                "humidity": 34.49,
+                "pressure": 1012.6056821670284,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T13:17:18.791Z",
+                "temperature": 26.71,
+                "humidity": 34.46,
+                "pressure": 1012.3945955015627,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T14:31:25.720Z",
+                "temperature": 26.35,
+                "humidity": 37.44,
+                "pressure": 1011.769307007595,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T15:59:48.814Z",
+                "temperature": 26.13,
+                "humidity": 42.27,
+                "pressure": 1011.0558259518014,
+                "voltage": 1017,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T17:44:02.279Z",
+                "temperature": 25.79,
+                "humidity": 45.16,
+                "pressure": 1011.1661944728113,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T18:27:41.785Z",
+                "temperature": 25.41,
+                "humidity": 49.67,
+                "pressure": 1011.8639158204896,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T18:56:47.582Z",
+                "temperature": 24.49,
+                "humidity": 55.96,
+                "pressure": 1012.2735646605058,
+                "voltage": 1016,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T19:11:01.084Z",
+                "temperature": 25.65,
+                "humidity": 53.79,
+                "pressure": 1012.2051667495941,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T19:55:32.917Z",
+                "temperature": 24.24,
+                "humidity": 56.61,
+                "pressure": 1012.1751301481892,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T20:09:13.182Z",
+                "temperature": 24.79,
+                "humidity": 53.12,
+                "pressure": 1012.3052663724914,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T20:38:38.206Z",
+                "temperature": 25.45,
+                "humidity": 53,
+                "pressure": 1012.3496349639264,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T21:52:36.252Z",
+                "temperature": 25.1,
+                "humidity": 54.64,
+                "pressure": 1012.6894697785434,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T22:06:26.091Z",
+                "temperature": 25.62,
+                "humidity": 54.62,
+                "pressure": 1012.6487692772063,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T22:20:54.224Z",
+                "temperature": 24.61,
+                "humidity": 57.62,
+                "pressure": 1012.5740816835828,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T22:35:01.498Z",
+                "temperature": 25.12,
+                "humidity": 56.72,
+                "pressure": 1012.5972422992199,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T23:19:13.787Z",
+                "temperature": 25.61,
+                "humidity": 56.09,
+                "pressure": 1012.4233879732485,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T23:33:23.740Z",
+                "temperature": 24.59,
+                "humidity": 58.05,
+                "pressure": 1012.3705139201938,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-22T23:47:21.676Z",
+                "temperature": 25.4,
+                "humidity": 55.22,
+                "pressure": 1012.3301296278019,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T00:01:40.996Z",
+                "temperature": 24.08,
+                "humidity": 59.71,
+                "pressure": 1012.6752323286169,
+                "voltage": 1016,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T00:15:23.866Z",
+                "temperature": 24.5,
+                "humidity": 58.56,
+                "pressure": 1012.9712458545846,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T00:29:55.186Z",
+                "temperature": 25.1,
+                "humidity": 56.95,
+                "pressure": 1013.1130515797671,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T00:44:03.228Z",
+                "temperature": 24.52,
+                "humidity": 57.71,
+                "pressure": 1013.2897462543287,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T01:13:04.193Z",
+                "temperature": 25.07,
+                "humidity": 55.87,
+                "pressure": 1013.3257000743871,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T03:11:54.267Z",
+                "temperature": 24.34,
+                "humidity": 57.64,
+                "pressure": 1014.1121443229432,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T03:25:54.900Z",
+                "temperature": 23.78,
+                "humidity": 57.36,
+                "pressure": 1014.2966731116143,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T03:39:44.428Z",
+                "temperature": 24.37,
+                "humidity": 55.86,
+                "pressure": 1014.2737752021168,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T03:53:53.192Z",
+                "temperature": 25.41,
+                "humidity": 52.94,
+                "pressure": 1014.3693235146433,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T04:38:17.367Z",
+                "temperature": 25.75,
+                "humidity": 52.78,
+                "pressure": 1014.7431095917314,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T05:07:18.992Z",
+                "temperature": 26.06,
+                "humidity": 52.57,
+                "pressure": 1014.8683412106603,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T06:06:23.000Z",
+                "temperature": 26.37,
+                "humidity": 52.69,
+                "pressure": 1015.5414644249051,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T08:05:25.038Z",
+                "temperature": 26.48,
+                "humidity": 51.96,
+                "pressure": 1015.6909481470913,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T10:03:57.833Z",
+                "temperature": 26.53,
+                "humidity": 50.21,
+                "pressure": 1015.6240221477993,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T10:32:58.005Z",
+                "temperature": 26.7,
+                "humidity": 46.03,
+                "pressure": 1015.4668844024509,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T11:02:01.510Z",
+                "temperature": 26.69,
+                "humidity": 40.51,
+                "pressure": 1015.2782571185451,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T12:16:03.887Z",
+                "temperature": 27,
+                "humidity": 36.03,
+                "pressure": 1014.7468799509895,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T12:44:50.299Z",
+                "temperature": 27.36,
+                "humidity": 35.63,
+                "pressure": 1014.5152415843314,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T14:14:10.007Z",
+                "temperature": 27.69,
+                "humidity": 31.43,
+                "pressure": 1014.1290744213951,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T16:12:39.165Z",
+                "temperature": 27.83,
+                "humidity": 27.45,
+                "pressure": 1013.354153213812,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T16:56:52.589Z",
+                "temperature": 27.49,
+                "humidity": 26.87,
+                "pressure": 1013.213867014054,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T18:10:55.917Z",
+                "temperature": 27.12,
+                "humidity": 28.1,
+                "pressure": 1013.1714064357507,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T19:09:47.894Z",
+                "temperature": 26.93,
+                "humidity": 32.38,
+                "pressure": 1013.290356832118,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T21:08:54.994Z",
+                "temperature": 26.88,
+                "humidity": 35.31,
+                "pressure": 1013.5225940164732,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T22:22:45.796Z",
+                "temperature": 26.44,
+                "humidity": 38.26,
+                "pressure": 1013.6596782803996,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T23:06:34.264Z",
+                "temperature": 25.56,
+                "humidity": 42.93,
+                "pressure": 1013.8154341468925,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-23T23:20:39.478Z",
+                "temperature": 25.06,
+                "humidity": 46.4,
+                "pressure": 1013.7993782672987,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T00:04:57.086Z",
+                "temperature": 24.73,
+                "humidity": 48.97,
+                "pressure": 1013.6141011264516,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T00:18:52.167Z",
+                "temperature": 25.87,
+                "humidity": 45.74,
+                "pressure": 1013.5374110012604,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T00:33:15.325Z",
+                "temperature": 24.98,
+                "humidity": 47.68,
+                "pressure": 1013.5321066416877,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T00:47:12.291Z",
+                "temperature": 25.56,
+                "humidity": 46.58,
+                "pressure": 1013.4778041423674,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T01:16:19.964Z",
+                "temperature": 24.01,
+                "humidity": 50.52,
+                "pressure": 1013.4868252483416,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T01:30:25.586Z",
+                "temperature": 25.62,
+                "humidity": 46.89,
+                "pressure": 1013.2249221092901,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T01:44:34.286Z",
+                "temperature": 25.96,
+                "humidity": 45.48,
+                "pressure": 1013.1286648809074,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T03:28:33.064Z",
+                "temperature": 26.29,
+                "humidity": 45.41,
+                "pressure": 1012.8591414949811,
+                "voltage": 1018,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T04:42:11.004Z",
+                "temperature": 26.69,
+                "humidity": 45.67,
+                "pressure": 1013.0645420375351,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T05:41:44.507Z",
+                "temperature": 27.02,
+                "humidity": 44.98,
+                "pressure": 1012.967206629384,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T07:40:32.583Z",
+                "temperature": 27.09,
+                "humidity": 45.91,
+                "pressure": 1012.8939345266226,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T09:39:21.694Z",
+                "temperature": 27.15,
+                "humidity": 45.81,
+                "pressure": 1012.0048181818238,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T11:37:58.617Z",
+                "temperature": 27.01,
+                "humidity": 45.88,
+                "pressure": 1011.3560407117853,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T12:07:01.193Z",
+                "temperature": 27.46,
+                "humidity": 45.98,
+                "pressure": 1011.2030517959904,
+                "voltage": 1018,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T14:05:54.598Z",
+                "temperature": 27.8,
+                "humidity": 42.99,
+                "pressure": 1009.5798675463575,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T15:19:51.027Z",
+                "temperature": 28.14,
+                "humidity": 44.12,
+                "pressure": 1009.1975969552527,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T15:48:44.890Z",
+                "temperature": 27.81,
+                "humidity": 44.67,
+                "pressure": 1009.0173058850503,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T17:47:39.294Z",
+                "temperature": 27.57,
+                "humidity": 45.33,
+                "pressure": 1008.2443482618517,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T19:16:33.179Z",
+                "temperature": 27.1,
+                "humidity": 43.55,
+                "pressure": 1008.4634933197136,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T20:15:32.830Z",
+                "temperature": 26.66,
+                "humidity": 44.58,
+                "pressure": 1008.7980656045276,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T21:59:29.062Z",
+                "temperature": 26.35,
+                "humidity": 44.26,
+                "pressure": 1008.4242146066686,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T22:28:05.247Z",
+                "temperature": 25.99,
+                "humidity": 45.25,
+                "pressure": 1008.3905240716784,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T22:42:32.974Z",
+                "temperature": 26.3,
+                "humidity": 45.43,
+                "pressure": 1008.8087303760664,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T22:56:42.983Z",
+                "temperature": 26.95,
+                "humidity": 44.27,
+                "pressure": 1009.3874210892316,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T23:25:48.507Z",
+                "temperature": 26.52,
+                "humidity": 44.3,
+                "pressure": 1010.156442273025,
+                "voltage": 1018,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-24T23:54:52.208Z",
+                "temperature": 26.01,
+                "humidity": 46.81,
+                "pressure": 1010.5829642478801,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T00:23:40.682Z",
+                "temperature": 26.35,
+                "humidity": 46.31,
+                "pressure": 1011.2132884757349,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T00:53:03.678Z",
+                "temperature": 25.98,
+                "humidity": 49.43,
+                "pressure": 1011.6606574275801,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T01:07:17.073Z",
+                "temperature": 26.7,
+                "humidity": 48.43,
+                "pressure": 1011.7735516480471,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T01:51:00.104Z",
+                "temperature": 27.04,
+                "humidity": 46.38,
+                "pressure": 1012.1814463924374,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T03:05:25.117Z",
+                "temperature": 26.56,
+                "humidity": 44.73,
+                "pressure": 1012.3529435644764,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T03:34:20.975Z",
+                "temperature": 26.9,
+                "humidity": 43.61,
+                "pressure": 1012.551185557508,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T05:33:15.872Z",
+                "temperature": 26.96,
+                "humidity": 45.96,
+                "pressure": 1013.2129836025413,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T07:32:01.072Z",
+                "temperature": 27.01,
+                "humidity": 46.88,
+                "pressure": 1014.2508204815248,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T09:30:45.583Z",
+                "temperature": 27.14,
+                "humidity": 47.35,
+                "pressure": 1015.0131277218029,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T11:29:39.303Z",
+                "temperature": 27.12,
+                "humidity": 46.86,
+                "pressure": 1014.8379462601063,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T12:43:29.711Z",
+                "temperature": 26.34,
+                "humidity": 45.2,
+                "pressure": 1014.5801963033101,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T14:42:18.681Z",
+                "temperature": 27.12,
+                "humidity": 45.63,
+                "pressure": 1014.1819439336546,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T14:56:18.952Z",
+                "temperature": 25.76,
+                "humidity": 48.12,
+                "pressure": 1014.2895627281774,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T16:55:11.216Z",
+                "temperature": 25.55,
+                "humidity": 47.54,
+                "pressure": 1014.0018843082532,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T17:09:06.584Z",
+                "temperature": 26.16,
+                "humidity": 46.52,
+                "pressure": 1013.8696126135987,
+                "voltage": 1016,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T17:53:07.770Z",
+                "temperature": 26.76,
+                "humidity": 50.21,
+                "pressure": 1013.9144592725225,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T19:52:01.715Z",
+                "temperature": 26.99,
+                "humidity": 47.84,
+                "pressure": 1014.5373334241121,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T21:50:49.894Z",
+                "temperature": 27.02,
+                "humidity": 48.41,
+                "pressure": 1014.4603670090669,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-25T23:49:38.901Z",
+                "temperature": 27.03,
+                "humidity": 48.44,
+                "pressure": 1014.5124432069197,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T00:18:38.883Z",
+                "temperature": 26.42,
+                "humidity": 49.26,
+                "pressure": 1014.5518230747997,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T00:32:32.173Z",
+                "temperature": 25.98,
+                "humidity": 50.23,
+                "pressure": 1014.6006487754339,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T00:46:57.882Z",
+                "temperature": 26.46,
+                "humidity": 48.77,
+                "pressure": 1014.6793968392151,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T02:45:46.758Z",
+                "temperature": 26.68,
+                "humidity": 49.36,
+                "pressure": 1015.0111478553265,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T04:44:14.335Z",
+                "temperature": 27.12,
+                "humidity": 48.99,
+                "pressure": 1015.4235314108811,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T05:43:40.090Z",
+                "temperature": 27.43,
+                "humidity": 48.74,
+                "pressure": 1015.6136306141929,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T07:42:38.063Z",
+                "temperature": 27.47,
+                "humidity": 49.33,
+                "pressure": 1016.3317828948157,
+                "voltage": 1013,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T09:41:18.999Z",
+                "temperature": 27.38,
+                "humidity": 49.62,
+                "pressure": 1016.1718108903722,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T11:40:09.941Z",
+                "temperature": 27.37,
+                "humidity": 50.15,
+                "pressure": 1015.8963432978518,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T13:08:40.823Z",
+                "temperature": 27.79,
+                "humidity": 45.8,
+                "pressure": 1015.5180792728107,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T13:23:04.073Z",
+                "temperature": 28.1,
+                "humidity": 43.47,
+                "pressure": 1015.4971257261769,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T14:51:46.280Z",
+                "temperature": 28.02,
+                "humidity": 47.59,
+                "pressure": 1015.1423532153623,
+                "voltage": 1018,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T16:35:27.754Z",
+                "temperature": 28.35,
+                "humidity": 42.18,
+                "pressure": 1014.805166586458,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T18:04:42.636Z",
+                "temperature": 27.93,
+                "humidity": 39.07,
+                "pressure": 1014.8091817236386,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T19:33:35.177Z",
+                "temperature": 27.47,
+                "humidity": 42.85,
+                "pressure": 1015.4939403520447,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T21:32:26.698Z",
+                "temperature": 26.99,
+                "humidity": 44.6,
+                "pressure": 1015.865372207709,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T21:46:25.086Z",
+                "temperature": 26.68,
+                "humidity": 45.91,
+                "pressure": 1015.963338888643,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T22:00:34.386Z",
+                "temperature": 27.08,
+                "humidity": 45.14,
+                "pressure": 1015.8811319262343,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-26T23:14:33.083Z",
+                "temperature": 26.61,
+                "humidity": 47.74,
+                "pressure": 1015.702810794067,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T01:13:14.631Z",
+                "temperature": 26.56,
+                "humidity": 49.56,
+                "pressure": 1015.2586296828208,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T03:12:08.387Z",
+                "temperature": 26.66,
+                "humidity": 49.01,
+                "pressure": 1015.4051372948065,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T04:41:03.477Z",
+                "temperature": 27.11,
+                "humidity": 48.94,
+                "pressure": 1015.1192804369165,
+                "voltage": 1023,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T05:25:11.219Z",
+                "temperature": 27.46,
+                "humidity": 48.4,
+                "pressure": 1015.1109112505416,
+                "voltage": 1017,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T07:23:59.789Z",
+                "temperature": 27.6,
+                "humidity": 48.96,
+                "pressure": 1015.3768701792873,
+                "voltage": 1021,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T09:22:50.198Z",
+                "temperature": 27.64,
+                "humidity": 49.84,
+                "pressure": 1015.1994245158118,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T11:21:36.287Z",
+                "temperature": 27.54,
+                "humidity": 49.52,
+                "pressure": 1014.561913677193,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T12:35:05.168Z",
+                "temperature": 27.99,
+                "humidity": 51.33,
+                "pressure": 1013.9767671624621,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T14:18:56.895Z",
+                "temperature": 28.32,
+                "humidity": 51.63,
+                "pressure": 1013.667969934408,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T16:17:46.210Z",
+                "temperature": 28.25,
+                "humidity": 54.68,
+                "pressure": 1013.212500115796,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T18:16:31.031Z",
+                "temperature": 28.02,
+                "humidity": 52.69,
+                "pressure": 1013.3126381404932,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T20:15:16.216Z",
+                "temperature": 27.99,
+                "humidity": 52.24,
+                "pressure": 1014.5179271511886,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T22:13:59.994Z",
+                "temperature": 28.01,
+                "humidity": 51.75,
+                "pressure": 1014.8504642353611,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-27T23:57:53.516Z",
+                "temperature": 27.31,
+                "humidity": 51.5,
+                "pressure": 1016.6411539217689,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T00:12:01.724Z",
+                "temperature": 27.76,
+                "humidity": 50.49,
+                "pressure": 1016.6279782030142,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T00:41:25.091Z",
+                "temperature": 27.22,
+                "humidity": 52.62,
+                "pressure": 1017.5912210928237,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T01:10:13.678Z",
+                "temperature": 27.72,
+                "humidity": 51.9,
+                "pressure": 1017.8378614259824,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T02:24:25.403Z",
+                "temperature": 26.91,
+                "humidity": 54.33,
+                "pressure": 1018.859356533594,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T02:38:36.886Z",
+                "temperature": 27.33,
+                "humidity": 52.62,
+                "pressure": 1018.8674842165568,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T03:22:46.777Z",
+                "temperature": 26.81,
+                "humidity": 55.33,
+                "pressure": 1016.6180616313846,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T04:06:50.949Z",
+                "temperature": 27.15,
+                "humidity": 53.58,
+                "pressure": 1018.4729798445932,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T05:20:49.502Z",
+                "temperature": 26.75,
+                "humidity": 53.06,
+                "pressure": 1019.3248514416144,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T05:34:53.072Z",
+                "temperature": 27.09,
+                "humidity": 51.95,
+                "pressure": 1019.506018674944,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T06:18:53.737Z",
+                "temperature": 27.46,
+                "humidity": 50.28,
+                "pressure": 1020.4475942556937,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T08:28:23.385Z",
+                "temperature": 27.79,
+                "humidity": 49.5,
+                "pressure": 1020.3163337809945,
+                "voltage": 1018,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T10:27:12.373Z",
+                "temperature": 27.93,
+                "humidity": 50.59,
+                "pressure": 1019.8315911890372,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T12:26:08.274Z",
+                "temperature": 28.08,
+                "humidity": 49.97,
+                "pressure": 1018.9446260022141,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T13:40:01.182Z",
+                "temperature": 28.42,
+                "humidity": 50.34,
+                "pressure": 1017.9221654167125,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T14:23:59.222Z",
+                "temperature": 28.59,
+                "humidity": 54.93,
+                "pressure": 1017.4408708132543,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T15:08:10.016Z",
+                "temperature": 28.96,
+                "humidity": 55.54,
+                "pressure": 1017.0706054616762,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T15:21:58.282Z",
+                "temperature": 28.83,
+                "humidity": 50.33,
+                "pressure": 1016.9562711330948,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T15:36:25.289Z",
+                "temperature": 28.94,
+                "humidity": 44.98,
+                "pressure": 1016.3527757051656,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T17:35:21.388Z",
+                "temperature": 28.65,
+                "humidity": 45.91,
+                "pressure": 1016.743809703801,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T19:58:00.006Z",
+                "temperature": null,
+                "humidity": null,
+                "pressure": null,
+                "voltage": 0,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T20:02:48.921Z",
+                "temperature": 28,
+                "humidity": 48.81,
+                "pressure": 1016.7365816737874,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T21:17:14.149Z",
+                "temperature": 27.61,
+                "humidity": 52.23,
+                "pressure": 1017.291368031543,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T21:31:10.939Z",
+                "temperature": 27.92,
+                "humidity": 51.46,
+                "pressure": 1017.1535068376799,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T21:45:18.698Z",
+                "temperature": 27.52,
+                "humidity": 53.03,
+                "pressure": 1017.2388575153557,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T21:59:15.461Z",
+                "temperature": 27.15,
+                "humidity": 53.78,
+                "pressure": 1016.9135997529694,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T22:43:18.973Z",
+                "temperature": 26.82,
+                "humidity": 53.89,
+                "pressure": 1016.720143573873,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-28T23:57:11.610Z",
+                "temperature": 26.44,
+                "humidity": 54.91,
+                "pressure": 1016.0825489259863,
+                "voltage": 1014,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T00:26:34.875Z",
+                "temperature": 26.84,
+                "humidity": 53.9,
+                "pressure": 1015.8564972334652,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T01:25:45.777Z",
+                "temperature": 26.48,
+                "humidity": 54.47,
+                "pressure": 1015.4890768275646,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T02:24:46.455Z",
+                "temperature": 26.79,
+                "humidity": 53.29,
+                "pressure": 1015.3543504543097,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T02:53:41.971Z",
+                "temperature": 26.19,
+                "humidity": 56.4,
+                "pressure": 1015.3208830424529,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T04:07:41.098Z",
+                "temperature": 25.8,
+                "humidity": 57.38,
+                "pressure": 1015.3311052643144,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T04:21:35.370Z",
+                "temperature": 26.41,
+                "humidity": 55.22,
+                "pressure": 1015.1994625510719,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T05:06:02.187Z",
+                "temperature": 25.89,
+                "humidity": 57.96,
+                "pressure": 1015.0748245372927,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T05:20:02.778Z",
+                "temperature": 26.31,
+                "humidity": 56.88,
+                "pressure": 1015.0736804897417,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T07:03:57.672Z",
+                "temperature": 26.64,
+                "humidity": 55.36,
+                "pressure": 1015.056661901491,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T08:02:57.397Z",
+                "temperature": 27.02,
+                "humidity": 55.7,
+                "pressure": 1014.5757907251096,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T08:16:48.991Z",
+                "temperature": 27.39,
+                "humidity": 55.38,
+                "pressure": 1014.5327823095532,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T10:01:04.238Z",
+                "temperature": 27.76,
+                "humidity": 54.25,
+                "pressure": 1013.7457949235111,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T11:59:51.298Z",
+                "temperature": 27.73,
+                "humidity": 54.13,
+                "pressure": 1012.304246833134,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T13:28:42.277Z",
+                "temperature": 28.06,
+                "humidity": 54.47,
+                "pressure": 1011.1850844574756,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T15:12:16.575Z",
+                "temperature": 28.47,
+                "humidity": 54.69,
+                "pressure": 1010.0430551808269,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T17:11:20.008Z",
+                "temperature": 28.35,
+                "humidity": 55.66,
+                "pressure": 1009.2805290541605,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T19:09:51.606Z",
+                "temperature": 27.34,
+                "humidity": 53.22,
+                "pressure": 1010.9897830881941,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T19:54:08.618Z",
+                "temperature": 26.72,
+                "humidity": 45.8,
+                "pressure": 1011.8042262404724,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T20:38:12.840Z",
+                "temperature": 26.22,
+                "humidity": 44.02,
+                "pressure": 1012.6648411560498,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T21:21:59.673Z",
+                "temperature": 25.59,
+                "humidity": 49.37,
+                "pressure": 1013.3722348479457,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T22:50:53.526Z",
+                "temperature": 25.24,
+                "humidity": 50.14,
+                "pressure": 1013.8763961669722,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T23:05:20.884Z",
+                "temperature": 25.62,
+                "humidity": 49.72,
+                "pressure": 1013.7434086260279,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T23:19:14.935Z",
+                "temperature": 24.9,
+                "humidity": 52.95,
+                "pressure": 1013.7826326057743,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T23:33:41.196Z",
+                "temperature": 24.51,
+                "humidity": 55.23,
+                "pressure": 1013.8863395738366,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-29T23:47:50.382Z",
+                "temperature": 25.33,
+                "humidity": 53.53,
+                "pressure": 1013.4395362088364,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T00:01:56.480Z",
+                "temperature": 24.7,
+                "humidity": 54.84,
+                "pressure": 1013.3746900143785,
+                "voltage": 1022,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T00:46:06.980Z",
+                "temperature": 25.08,
+                "humidity": 54.94,
+                "pressure": 1013.5798697963844,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T01:00:10.474Z",
+                "temperature": 24.76,
+                "humidity": 56.18,
+                "pressure": 1014.0713296528345,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T01:14:21.578Z",
+                "temperature": 25.1,
+                "humidity": 55.1,
+                "pressure": 1013.9766481147435,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T01:28:31.619Z",
+                "temperature": 24.58,
+                "humidity": 56.5,
+                "pressure": 1014.1381702565013,
+                "voltage": 1017,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T02:12:19.784Z",
+                "temperature": 24.27,
+                "humidity": 58.22,
+                "pressure": 1014.0899830144406,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T03:26:36.293Z",
+                "temperature": 24.58,
+                "humidity": 58.21,
+                "pressure": 1013.8140930990577,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T03:40:46.093Z",
+                "temperature": 24.19,
+                "humidity": 59.51,
+                "pressure": 1014.1675346245256,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T03:54:37.973Z",
+                "temperature": 25.5,
+                "humidity": 55.55,
+                "pressure": 1014.0109606909506,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T04:38:43.548Z",
+                "temperature": 25.89,
+                "humidity": 55.63,
+                "pressure": 1013.5185771276721,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T05:08:08.695Z",
+                "temperature": 26.27,
+                "humidity": 54.61,
+                "pressure": 1013.8665211192923,
+                "voltage": 1013,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T07:07:00.184Z",
+                "temperature": 26.4,
+                "humidity": 51.38,
+                "pressure": 1013.6552869753029,
+                "voltage": 1013,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T07:21:05.968Z",
+                "temperature": 26.74,
+                "humidity": 50.95,
+                "pressure": 1013.5663915403412,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T09:05:00.548Z",
+                "temperature": 27.1,
+                "humidity": 52.02,
+                "pressure": 1013.0457186261049,
+                "voltage": 1013,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T10:33:50.089Z",
+                "temperature": 27.51,
+                "humidity": 54.83,
+                "pressure": 1012.571925732336,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T10:47:38.433Z",
+                "temperature": 27.71,
+                "humidity": 62.04,
+                "pressure": 1012.5336909098185,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T11:46:59.981Z",
+                "temperature": 27.72,
+                "humidity": 57.89,
+                "pressure": 1012.0080654607697,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T13:45:54.787Z",
+                "temperature": 28.05,
+                "humidity": 54.37,
+                "pressure": 1011.0254469643713,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T15:44:33.683Z",
+                "temperature": 28.17,
+                "humidity": 53.44,
+                "pressure": 1009.7720265894046,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T17:43:20.893Z",
+                "temperature": 27.98,
+                "humidity": 54.29,
+                "pressure": 1009.5879573402493,
+                "voltage": 1023,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T19:42:13.152Z",
+                "temperature": 27.99,
+                "humidity": 55.29,
+                "pressure": 1010.3629450465337,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T21:41:11.403Z",
+                "temperature": 27.49,
+                "humidity": 57.3,
+                "pressure": 1010.9028126119923,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-06-30T23:40:01.949Z",
+                "temperature": 27.38,
+                "humidity": 55.67,
+                "pressure": 1010.8282616017207,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-01T00:08:41.436Z",
+                "temperature": 26.93,
+                "humidity": 57.15,
+                "pressure": 1010.8369500892965,
+                "voltage": 1015,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-01T00:22:52.201Z",
+                "temperature": 27.33,
+                "humidity": 56.18,
+                "pressure": 1010.7432943259182,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-01T00:37:01.787Z",
+                "temperature": 26.57,
+                "humidity": 57.41,
+                "pressure": 1011.1772668670588,
+                "voltage": 1013,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-01T02:06:30.625Z",
+                "temperature": 27.09,
+                "humidity": 55.19,
+                "pressure": 1010.7206927927363,
+                "voltage": 1017,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T20:37:57.379Z",
+                "temperature": null,
+                "humidity": null,
+                "pressure": null,
+                "voltage": 0,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T20:51:37.077Z",
+                "temperature": 26.91,
+                "humidity": 43.09,
+                "pressure": 1018.3316284372361,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T21:21:06.277Z",
+                "temperature": 26.41,
+                "humidity": 40.54,
+                "pressure": 1018.3434855134411,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T21:49:50.769Z",
+                "temperature": 27.21,
+                "humidity": 41.98,
+                "pressure": 1018.4504823733597,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T22:49:27.764Z",
+                "temperature": 26.04,
+                "humidity": 42.28,
+                "pressure": 1018.6140475250703,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T23:03:29.334Z",
+                "temperature": 25.38,
+                "humidity": 44.79,
+                "pressure": 1018.7006330158074,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T23:18:06.017Z",
+                "temperature": 25.72,
+                "humidity": 45.06,
+                "pressure": 1018.5947178664128,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-05T23:46:16.766Z",
+                "temperature": 26.54,
+                "humidity": 44.23,
+                "pressure": 1018.6976228271257,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T01:45:04.076Z",
+                "temperature": 26.79,
+                "humidity": 46.76,
+                "pressure": 1018.6363743806149,
+                "voltage": 1018,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T02:14:27.366Z",
+                "temperature": 27.12,
+                "humidity": 46.97,
+                "pressure": 1018.8597875300406,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T03:13:30.991Z",
+                "temperature": 27.45,
+                "humidity": 51.15,
+                "pressure": 1019.1320207194975,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T04:12:49.773Z",
+                "temperature": 27.16,
+                "humidity": 46.76,
+                "pressure": 1018.9216337577557,
+                "voltage": 1011,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T04:56:43.600Z",
+                "temperature": 27.5,
+                "humidity": 44.96,
+                "pressure": 1019.1434848114685,
+                "voltage": 1012,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T05:55:20.920Z",
+                "temperature": 26.24,
+                "humidity": 43.36,
+                "pressure": 1019.357067146072,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T06:39:46.773Z",
+                "temperature": 25.85,
+                "humidity": 43.8,
+                "pressure": 1019.8260572284883,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T06:53:38.075Z",
+                "temperature": 26.37,
+                "humidity": 43.2,
+                "pressure": 1019.8390695191347,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T07:07:49.479Z",
+                "temperature": 27.06,
+                "humidity": 43,
+                "pressure": 1019.661371705824,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T09:06:44.576Z",
+                "temperature": 27.06,
+                "humidity": 41.88,
+                "pressure": 1019.7687328206583,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T11:05:30.611Z",
+                "temperature": 27.15,
+                "humidity": 43.81,
+                "pressure": 1020.1479867453669,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T13:04:20.793Z",
+                "temperature": 27.57,
+                "humidity": 41.23,
+                "pressure": 1019.5411653997875,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T15:03:09.083Z",
+                "temperature": 27.23,
+                "humidity": 41.31,
+                "pressure": 1019.8676451664226,
+                "voltage": 1024,
+                "room_id": 56
+            },
+            {
+                "time": "2022-07-06T17:01:56.586Z",
+                "temperature": 27.49,
+                "humidity": 40.32,
+                "pressure": 1019.0127296956908,
+                "voltage": 1015,
+                "room_id": 56
+            }
+        ]
+    }
+}

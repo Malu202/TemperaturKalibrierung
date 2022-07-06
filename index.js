@@ -146,3 +146,7 @@ function updateChart(value, date) {
     myChart.data.datasets[0].data.push(value);
     myChart.update();
 }
+
+let output = []; for (let i = 0; i < a["52"].measurements.length; i++) {
+    output.push(new Intl.DateTimeFormat([], { hour: 'numeric', minute: 'numeric', second: 'numeric' }).format(new Date(a["52"].measurements[i].time)) + ',' + a["52"].measurements[i].temperature);
+} saveFile("raphi", output);
