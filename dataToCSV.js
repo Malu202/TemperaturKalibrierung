@@ -10,6 +10,9 @@ let jsonData = JSON.parse(rawdata);
 
 let sensor1 = jsonData["53"].measurements.filter(s => null != s.temperature);
 let sensor2 = jsonData["56"].measurements.filter(s => null != s.temperature);
+let sensor3 = jsonData["58"].measurements.filter(s => null != s.temperature);
+
+
 
 for (let i = 0; i < sensor1.length; i++) {
     sensor1[i].time = new Date(sensor1[i].time);
