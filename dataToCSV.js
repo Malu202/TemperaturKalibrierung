@@ -4,14 +4,15 @@ const fs = require('fs');
 const { exit } = require('process');
 
 // let rawdata = fs.readFileSync('./data/postCalibration_22.03.-06.06.22.json');
-let rawdata = fs.readFileSync('./data/humidityCalibration_22.06.-06.07.22.json');
+let rawdata = fs.readFileSync('./data/humidityComparison_Sensor2_14.06.-27.06.22.json');
 
 let jsonData = JSON.parse(rawdata);
 
 let sensor1 = jsonData["53"].measurements.filter(s => null != s.temperature);
 let sensor2 = jsonData["56"].measurements.filter(s => null != s.temperature);
-let sensor3 = jsonData["58"].measurements.filter(s => null != s.temperature);
 
+// let sensor3 = jsonData["58"].measurements.filter(s => null != s.temperature);
+// sensor2 = sensor3;
 
 
 for (let i = 0; i < sensor1.length; i++) {
@@ -45,8 +46,9 @@ if (earliestSensor == sensor1) {
     secondSensorString = " 1";
 }
 
+let valueToInterpolate = "humidity";
 
-let outputString = `time,temperature${firstSensorString},humidity${firstSensorString},pressure${firstSensorString},voltage${firstSensorString},temperature${secondSensorString},humidity${secondSensorString},pressure${secondSensorString},voltage${secondSensorString},temperature${firstSensorString} int.,temperature${secondSensorString} int.`;
+let outputString = `time,temperature${firstSensorString},humidity${firstSensorString},pressure${firstSensorString},voltage${firstSensorString},temperature${secondSensorString},humidity${secondSensorString},pressure${secondSensorString},voltage${secondSensorString},${valueToInterpolate}${firstSensorString} int.,${valueToInterpolate}${secondSensorString} int.`;
 outputString += '\n';
 let j = 0;
 for (let i = 0; i < earliestSensor.length; i++) {
@@ -57,8 +59,8 @@ for (let i = 0; i < earliestSensor.length; i++) {
         continue;
     }
     if (j - 1 > 0 && j < otherSensor.length) {
-        outputString += earliestSensor[i].temperature + ',';
-        outputString += interpolateMeasurement(otherSensor[j - 1].time.getTime(), otherSensor[j].time.getTime(), otherSensor[j - 1].temperature, otherSensor[j].temperature, earliestSensor[i].time.getTime()) + ',';
+        outputString += earliestSensor[i][valueToInterpolate] + ',';
+        outputString += interpolateMeasurement(otherSensor[j - 1].time.getTime(), otherSensor[j].time.getTime(), otherSensor[j - 1][valueToInterpolate], otherSensor[j][valueToInterpolate], earliestSensor[i].time.getTime()) + ',';
     }
     outputString += '\n';
 
@@ -68,8 +70,8 @@ for (let i = 0; i < earliestSensor.length; i++) {
 
 
         if (i < earliestSensor.length - 1) {
-            outputString += interpolateMeasurement(earliestSensor[i].time.getTime(), earliestSensor[i + 1].time.getTime(), earliestSensor[i].temperature, earliestSensor[i + 1].temperature, otherSensor[j].time.getTime()) + ',';
-            outputString += otherSensor[j].temperature + ',';
+            outputString += interpolateMeasurement(earliestSensor[i].time.getTime(), earliestSensor[i + 1].time.getTime(), earliestSensor[i][valueToInterpolate], earliestSensor[i + 1][valueToInterpolate], otherSensor[j].time.getTime()) + ',';
+            outputString += otherSensor[j][valueToInterpolate] + ',';
         }
         outputString += '\n';
 
@@ -102,7 +104,7 @@ function interpolateMeasurement(time1, time2, measurement1, measurement2, actual
 // console.log(outputString)
 
 
-fs.writeFile('./newOutput.csv', outputString, err => {
+fs.writeFile('./output/output.csv', outputString, { flag: "wx" }, err => {
     if (err) {
         console.error(err)
         return

@@ -1658,22 +1658,6 @@
         "name": "Raphi",
         "measurements": [
             {
-                "time": "2022-07-14T18:28:05.949Z",
-                "temperature": 0.21,
-                "humidity": 0,
-                "pressure": 0,
-                "voltage": 166,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-14T19:17:09.574Z",
-                "temperature": 26.98,
-                "humidity": 43.12,
-                "pressure": 1011.7536077038784,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
                 "time": "2022-07-14T19:46:34.321Z",
                 "temperature": 27.65,
                 "humidity": 37.19,
@@ -1998,54 +1982,6 @@
                 "temperature": 26.56,
                 "humidity": 49.09,
                 "pressure": 1018.5932336231936,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-16T12:36:17.425Z",
-                "temperature": 26.39,
-                "humidity": 39.89,
-                "pressure": 1018.6283904543814,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-16T13:40:22.697Z",
-                "temperature": 26.23,
-                "humidity": 49.01,
-                "pressure": 1019.6263345431748,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-16T15:39:04.512Z",
-                "temperature": 25.99,
-                "humidity": 50.17,
-                "pressure": 1019.989991360695,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-16T17:38:02.327Z",
-                "temperature": 25.87,
-                "humidity": 50.3,
-                "pressure": 1021.1908088957125,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-16T19:36:37.694Z",
-                "temperature": 25.81,
-                "humidity": 49.77,
-                "pressure": 1022.8079632421262,
-                "voltage": 1024,
-                "room_id": 58
-            },
-            {
-                "time": "2022-07-16T21:35:41.993Z",
-                "temperature": 25.77,
-                "humidity": 49.65,
-                "pressure": 1024.4084040763141,
                 "voltage": 1024,
                 "room_id": 58
             }
